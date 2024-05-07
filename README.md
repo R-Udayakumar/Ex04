@@ -211,5 +211,4 @@ HAVING MIN(workhour)>8;
 ![image](https://github.com/Mena-Rossini/DBMS_EX_04/assets/102855266/aa91f685-4b5f-4225-8c81-a584d0c52da6)
 
 # RESULT:
-Thus, we studied and implemented the aggregate functions, group by and having clause with suitable examples.
-
+Thus,To study and implement aggregate functions, group by and having clause with suitable examples has been executed sucessfully.
